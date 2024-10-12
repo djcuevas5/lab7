@@ -7,11 +7,19 @@ body{
 td, th {
 	border: 2px solid;
   color: white;
+
   }
   
-  #main-title{
+#main-title {
     color: white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-  }
+}
 
+#jupiter-facts{
+  background-color: rgb(172, 111, 58);
+}
+
+#Saturn-facts{
+  background-color: rgb(250, 201, 137);
+}
