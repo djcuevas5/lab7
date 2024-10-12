@@ -1,4 +1,17 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url("https://images.pexels.com/photos/2919587/pexels-photo-2919587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+
 td, th {
-	border: 1px solid;
+	border: 2px solid;
+  color: white;
   }
   
+  #main-title{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+
