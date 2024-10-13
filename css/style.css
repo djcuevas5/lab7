@@ -16,18 +16,19 @@ td, th {
     text-align: center;
 }
 
-#jupiter-facts{
+ td:nth-child(2), th:nth-child(2){
   background-color: rgb(172, 111, 58);
 }
 
-#Saturn-facts{
+
+td:nth-child(3), th:nth-child(3){
   background-color: rgb(250, 201, 137);
 }
 
-#Neptune-facts{
+td:nth-child(4), th:nth-child(4){
   background-color: rgb(59, 75, 136);
 }
 
-#Mercury-facts{
+td:nth-child(5), th:nth-child(5){
   background-color: rgb(114, 113, 112)
 }
